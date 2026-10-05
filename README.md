@@ -61,23 +61,45 @@ tkinter-calculator/
 └── README.md
 
 
+| Theme    | Style                  |
+| -------- | ---------------------- |
+| Obsidian | Dark and premium       |
+| Ocean    | Dark blue and modern   |
+| Forest   | Dark green and elegant |
+| Paper    | Light and minimal      |
+| Midnight | Dark purple aesthetic  |
 
-User Input
-    │
-    ▼
-┌───────────────┐
-│   Calculator  │
-│      UI       │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│  Calculator   │
-│     Logic     │
-└───────┬───────┘
-        │
-        ▼
-    Calculation
-        │
-        ▼
-    UI Display
+
+
+| Key         | Action           |
+| ----------- | ---------------- |
+| `0-9`       | Enter numbers    |
+| `+`         | Addition         |
+| `-`         | Subtraction      |
+| `*`         | Multiplication   |
+| `/`         | Division         |
+| `.`         | Decimal          |
+| `Enter`     | Calculate        |
+| `Backspace` | Delete input     |
+| `Escape`    | Clear calculator |
+
+
+
+🧠 Concepts Practiced
+
+This project was developed to strengthen practical understanding of:
+
+Python fundamentals
+Classes and Objects
+Object-Oriented Programming
+Encapsulation
+Functions and methods
+Conditional statements
+Exception handling
+GUI programming
+Event-driven programming
+Keyboard event handling
+Modular programming
+Separation of concerns
+Basic software architecture
+Git and GitHub workflow
