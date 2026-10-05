@@ -42,25 +42,6 @@ The project focuses on applying Python fundamentals, Object-Oriented Programming
 
 
 
-tkinter-calculator/
-│
-├── main.py
-│
-├── ui/
-│   ├── __init__.py
-│   └── calculator_ui.py
-│
-├── logic/
-│   ├── __init__.py
-│   └── calculator_logic.py
-│
-├── utils/
-│   ├── __init__.py
-│   └── helpers.py
-│
-└── README.md
-
-
 | Theme    | Style                  |
 | -------- | ---------------------- |
 | Obsidian | Dark and premium       |
